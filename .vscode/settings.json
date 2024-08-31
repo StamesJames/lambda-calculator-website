@@ -1,0 +1,7 @@
+{
+    "cSpell.words": [
+        "bindgen",
+        "Unty"
+    ],
+    "rust-analyzer.linkedProjects": ["src/lib/wasm_modules/lambda_calculator/Cargo.toml"]
+}
